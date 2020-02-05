@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1098</width>
+    <height>776</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>60</y>
+      <width>171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLineEdit" name="monday_correct1"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct2"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct3"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct4"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct5"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct6"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct7"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="monday_correct8"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>380</y>
+      <width>171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct1"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct2"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct3"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct4"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct5"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct6"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct7"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="tuesday_correct8"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>60</y>
+      <width>171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_5">
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct1"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct2"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct3"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct4"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct5"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct6"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct7"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="wednesday_correct8"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>380</y>
+      <width>171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_6">
+     <item>
+      <widget class="QLineEdit" name="thursday_correct1"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct2"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct3"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct4"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct5"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct6"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct7"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="thursday_correct8"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget_5">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>60</y>
+      <width>171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_7">
+     <item>
+      <widget class="QLineEdit" name="friday_correct1"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct2"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct3"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct4"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct5"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct6"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct7"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="friday_correct8"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="verticalLayoutWidget_6">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>380</y>
+      <width>171</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_8">
+     <item>
+      <widget class="QLineEdit" name="saturday_correct1"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct2"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct3"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct4"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct5"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct6"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct7"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="saturday_correct8"/>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>9</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; text-decoration: underline;&quot;&gt;Понедельник&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>330</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; text-decoration: underline;&quot;&gt;Вторник&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>330</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; text-decoration: underline;&quot;&gt;Суббота&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>330</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; text-decoration: underline;&quot;&gt;Четверг&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>10</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; text-decoration: underline;&quot;&gt;Пятница&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>10</y>
+      <width>171</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; text-decoration: underline;&quot;&gt;Среда&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="button_save_correct">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>660</y>
+      <width>281</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Сохранить изменения</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1098</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
